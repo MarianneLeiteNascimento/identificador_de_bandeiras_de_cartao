@@ -15,3 +15,5 @@ Para o desenvolvimento deste projeto, utilizei as seguintes tecnologias:
 ## Contribuições
 
 Contribuições são muito bem-vindas para melhorar o projeto, corrigir bugs ou adicionar funcionalidades. Sinta-se à vontade para enviar pull requests ou abrir issues com sugestões.
+
+## Prévia
