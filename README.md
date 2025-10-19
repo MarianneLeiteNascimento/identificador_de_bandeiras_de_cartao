@@ -1,4 +1,5 @@
 ## Sobre o Projeto
+![Banner personalizado](codigo/lib/assets/images/banner.png)
 
 Este é um projeto simples, porém útil, utilizado para identificar a bandeira de cartão de crédito.
 
